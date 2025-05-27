@@ -53,8 +53,8 @@ Welcome to the repository for the **Object-Oriented Programming (OOP)** assignme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/oop-assignment.git
-   cd oop-assignment
+   git clone https://github.com/Sahazad001/oops-assignment.git
+   cd oops-assignment
    ```
 2. Run Python files directly:
 
