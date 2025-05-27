@@ -53,8 +53,8 @@ Welcome to the repository for the **Object-Oriented Programming (OOP)** assignme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sahazad001/oops-assignment.git
-   cd oops-assignment
+   git clone https://github.com/Sahazad001/OOPs-assignment.git
+   cd OOPs-assignment
    ```
 2. Run Python files directly:
 
@@ -87,4 +87,4 @@ This project is for educational use only and may be shared with appropriate attr
 
 ---
 
-Would you like me to generate a sample folder structure and Python script templates as well?
+
